@@ -1,1 +1,1 @@
-My Portfolio Site! - https://rushin-chudasama.github.io/
+My Portfolio Site! - https://rushinchudasama.github.io/
